@@ -1,14 +1,4 @@
-# Expo Router Example
-
-Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
-
-## 🚀 How to use
-
-```sh
-npx create-expo-app -e with-router
-```
-
-## 📝 Notes
-
-- [Expo Router: Docs](https://expo.github.io/router)
-- [Expo Router: Repo](https://github.com/expo/router)
+To make the app run perfectly, Do these steps:
+Go to RapidApi and get your own JSearch API key.
+Paste that key in the useHook file and [id].js file.
+Have FUN!
